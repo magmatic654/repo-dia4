@@ -7,7 +7,3 @@ Clase 4 DEVF. :D
 
 - listas
 1. listas numeradas
-`código en línea`
-```bash
-# bloque de código
-ls -la
